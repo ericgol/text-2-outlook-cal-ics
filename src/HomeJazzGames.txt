@@ -74,7 +74,7 @@ Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
 Description: Utah Jazz 23-24 Season Home Game 
 
 Event: UT JAZZ HOME GAME - Mavericks - Dallas Mavericks
-Start: 2023-01-01 19:00:00
+Start: 2024-01-01 19:00:00
 Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
 Description: Utah Jazz 23-24 Season Home Game 
 
