@@ -1,0 +1,104 @@
+Event: UHC -  Chicago Blackhawks
+Start: 2024-10-08 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season
+
+Event: UHC -  Ottawa Senators
+Start: 2024-10-22 19:15:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Colorado Avalanche
+Start: 2024-10-24 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season
+
+Event: UHC -  San Jose Sharks
+Start: 2024-10-28 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Carolina Hurricanes
+Start: 2024-11-13 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Edmonton Oilers
+Start: 2024-11-29 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season
+
+Event: UHC -  Vancouver Canucks
+Start: 2024-12-18 20:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Dallas Stars
+Start: 2024-12-23 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Florida Panthers
+Start: 2025-01-08 20:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event : UHC -  New York Islanders
+Start: 2025-01-11 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Montreal Canadians
+Start: 2025-01-14 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Columbus Blue Jackets
+Start: 2025-01-31 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  St. Louis Blues
+Start: 2025-02-02 17:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  Minnesota Wild
+Start: 2025-02-27 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  New Jersey Devils
+Start: 2025-03-01 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Toronto Maple Leafs
+Start: 2025-03-10 20:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season 
+
+Event: UHC -  Anaheim Ducks
+Start: 2025-03-12 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  Tampa Bay Lightning
+Start: 2025-03-22 15:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  Calgary Flames
+Start: 2025-04-01 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  LA Kings
+Start: 2025-04-03 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Hockey Club 24-25 Season  
+
+Event: UHC -  Winnepeg Jets
+Start: 2025-04-05 17:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Hockey Club 24-25 Season  

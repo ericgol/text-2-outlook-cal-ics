@@ -18,7 +18,7 @@ Start: 2024-10-23 19:30:00
 Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
 Description: Utah Jazz 24-25 Season 
 
-Event: UT JAZZ - GGolden State Warriors
+Event: UT JAZZ - Golden State Warriors
 Start: 2024-10-25 19:30:00
 Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
 Description: Utah Jazz 24-25 Season 
