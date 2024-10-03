@@ -1,0 +1,214 @@
+Event: UT JAZZ - New Zealand Breakers
+Start: 2024-10-04 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season
+
+Event: UT JAZZ - Houston Rockets
+Start: 2024-10-07 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Sacremento Kings
+Start: 2024-10-15 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season
+
+Event: UT JAZZ - Memphis Grizzlies
+Start: 2024-10-23 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - GGolden State Warriors
+Start: 2024-10-25 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Sacramento Kings
+Start: 2024-10-29 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season
+
+Event: UT JAZZ - San Antonio Spurs
+Start: 2024-10-31 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Phoenix Suns - Emirates NBA Cup
+Start: 2024-11-12 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Dallas Mavericks
+Start: 2024-11-14 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event : UT JAZZ - New York Knicks
+Start: 2024-11-23 15:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - San Antonio Spurs - Emirates NBA Cop 
+Start: 2024-11-26 19:00:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Denver Nuggets
+Start: 2024-11-27 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Dallas Mavericks
+Start: 2024-11-30 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Los Angeles Lakers
+Start: 2024-12-01 18:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Philadelphia 76ers
+Start: 2024-12-28 19:30:00 
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Denver Nuggets
+Start: 2024-12-30 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Atlanta Hawks
+Start: 2025-01-07 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Miami Heat
+Start: 2025-01-09 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Brooklyn Nets
+Start: 2025-01-12 18:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Charlotte Hornets
+Start: 2025-01-15 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Washington Wizards
+Start: 2025-01-23 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Milwaukee Bucks
+Start: 2025-01-27 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Minnesota Timberwolfs
+Start: 2025-01-30 20:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Orlando Magic
+Start: 2025-02-01 15:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Indiana Pacers
+Start: 2025-02-03 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Golden State Warriors
+Start: 2025-02-05 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Los Angeles Lakers
+Start: 2025-02-12 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Oklahoma City Thunder
+Start: 2025-02-21 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Houston Rockets
+Start: 2025-02-22 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Portland Trail Blazers
+Start: 2025-02-24 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Sacramento Kings
+Start: 2025-02-26 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Minnesota Timberwolves
+Start: 2025-02-28 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - New Orleans Pelicans
+Start: 2025-03-02 18:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Detroit Pistons
+Start: 2025-03-03 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US
+Description: Utah Jazz 24-25 Season
+
+Event: UT JAZZ - Toronto Raptors
+Start: 2025-03-14 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Chicago Bulls
+Start: 2025-03-17 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - LA Clippers
+Start: 2025-03-19 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season 
+
+Event: UT JAZZ - Boston Celtics
+Start: 2025-03-21 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Cleveland Cavaliers
+Start: 2025-03-23 13:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Memphis Grizzlies
+Start: 2025-03-25 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Houston Rockets
+Start: 2025-03-27 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season  
+
+Event: UT JAZZ - Portland Trail Blazers
+Start: 2025-04-09 19:00:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season
+
+Event: UT JAZZ - Oklahoma City Thunder
+Start: 2025-04-11 19:30:00
+Location: Delta Center, 301 W South Temple, Salt Lake City, UT, 84101, US 
+Description: Utah Jazz 24-25 Season

@@ -10,7 +10,7 @@ from dateutil import tz
 parsed_events = []
 
 # Open the text file for reading
-with open("HomeJazzGames.txt", "r") as file:
+with open("HomeJazzGames2425.txt", "r") as file:
     lines = file.readlines()
 
 event = {}  # Initialize an empty dictionary to store event details
@@ -59,5 +59,5 @@ for event in parsed_events:
     cal.events.add(e)
 
 # Save the combined .ical file
-with open("UtahJazzHomeGames23_24.ics", "w") as f:
+with open("UtahJazzHomeGames24_25.ics", "w") as f:
     f.write(str(cal))
