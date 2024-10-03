@@ -30,3 +30,5 @@ python 3 -m install pip
 3) Start VS Code "code ."
 
 You can now debug and run the script in VS code easily.
+
+10/1/2024 - Updated with 24-25 Jazz Home Games
